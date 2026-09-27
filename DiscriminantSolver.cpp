@@ -16,6 +16,10 @@ void main(void) // Главный Метод
 
 	cout << " Give values A, B and C, split the numbers with SPACE button:\t";
 	cin >> a >> b >> c;
+	while ((a or b or c)== 0) {
+		cout << "\n Please choose values those are not 0. A, B and C is equal to = ";
+		cin >> a >> b >> c;
+	}
 	cout << "\nA = " << a << "\t B = " << b << "\t C = " << c << endl;
 
 	D = pow(b,2) - 4 * a * c; // Находим значение Дискриминанта

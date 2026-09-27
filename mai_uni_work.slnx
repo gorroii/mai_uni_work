@@ -3,5 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="BubbleSorter/BubbleSorter.vcxproj" Id="5651f9da-aac5-4a4d-8cc2-f464699bd169" />
   <Project Path="DiscriminantSolver/DiscriminantSolver.vcxproj" Id="10dadada-6786-44ab-8eb6-6aa0cf44a165" />
 </Solution>
