@@ -9,7 +9,6 @@ void main(void) {
 	int x5;
 	cout << " Enter 5 int values x1 x2 x3 x4 x5 = ";
 	cin >> x1 >> x2 >> x3 >> x4 >> x5; // Выбор 5 переменных для сортировки
-
 	int arr[5] = { x1,x2,x3,x4,x5 }; // Инициализация Array
 
 	int n = size(arr); // Размер Array
@@ -37,6 +36,6 @@ void main(void) {
 		} 
 	}
 
-	cout << "\n\n\t Sorted array = " << arr[0] << arr[1] << arr[2] << arr[3] << arr[4];
+	cout << "\n\n\t Sorted array = " << arr[0] << " " << arr[1] << " " << arr[2] << " " << arr[3] << " " << arr[4];
 
 }
