@@ -5,4 +5,5 @@
   </Configurations>
   <Project Path="BubbleSorter/BubbleSorter.vcxproj" Id="5651f9da-aac5-4a4d-8cc2-f464699bd169" />
   <Project Path="DiscriminantSolver/DiscriminantSolver.vcxproj" Id="10dadada-6786-44ab-8eb6-6aa0cf44a165" />
+  <Project Path="DistanceFromTwoPointsSolver/DistanceFromTwoPointsSolver.vcxproj" Id="ac633093-80f5-4e6e-b4dd-033c78e916d2" />
 </Solution>
