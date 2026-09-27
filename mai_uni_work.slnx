@@ -3,6 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="3x3MatrixDetSolver/3x3MatrixDetSolver.vcxproj" Id="52043427-e6d2-4f5e-b1bb-7aa496328497" />
   <Project Path="BubbleSorter/BubbleSorter.vcxproj" Id="5651f9da-aac5-4a4d-8cc2-f464699bd169" />
   <Project Path="DecimalToRoman/DecimalToRoman.vcxproj" Id="81bb682d-3582-466a-8b5c-26c21db61fcb" />
   <Project Path="DiscriminantSolver/DiscriminantSolver.vcxproj" Id="10dadada-6786-44ab-8eb6-6aa0cf44a165" />
